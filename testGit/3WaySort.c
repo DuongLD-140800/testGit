@@ -6,7 +6,7 @@ typedef struct test {
 	int key;
 	char keyChar[30];
 }test;
-
+//test gitHub
 #define MAX 100000000
 void printArray(int a[], int size) {
 	for (int i = 0; i < size; ++i)
